@@ -1,2 +1,5 @@
 url base de dados
 https://www.kaggle.com/dgomonov/new-york-city-airbnb-open-data
+
+http://ftp.unicamp.br/pub/apache/spark/spark-3.0.0-preview2/spark-3.0.0-preview2-bin-hadoop2.7.tgz
+
